@@ -1,3 +1,8 @@
+DIRECT LINK TO PROJECT WEB PAGE - FOODIE HUB
+
+https://adityaraics28-ux.github.io/working_internship_project_foodiehub/index(main%20working%20website).html
+
+
 THIS READ FILE HAS THE ALTERNATIVE REPOSITORY LINK THAT HAS THE WORKING PROJECT OF THIS INTERNSHIP, KINDLY OPEN THAT IF REQUIRED FOR EVALUATION
 
 https://github.com/adityaraics28-ux/working_internship_project_foodiehub
